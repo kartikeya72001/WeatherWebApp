@@ -411,7 +411,7 @@ a {
   background: #fff;
   box-shadow: -2.1875em 0.6875em 0 -0.6875em #fff, 2.0625em 0.9375em 0 -0.9375em #fff, 0 0 0 0.375em rgb(15, 124, 212), -2.1875em 0.6875em 0 -0.3125em rgb(15, 124, 212), 2.0625em 0.9375em 0 -0.5625em rgb(15, 124, 212);
   opacity: 0.3;
-  transform: scale(0.5) translate(6em, -3em);
+  transform: scale(0.8) translate(6em, -3em);
   animation: cloud 4s linear infinite;
 }
 
@@ -594,8 +594,8 @@ a {
     opacity: 0.2;
   }
   50% {
-    color: #0cf;
-    background: #0cf;
+    color: #FFC107;
+    background: #FFC107;
     opacity: 1;
   }
   55% {
@@ -614,7 +614,7 @@ a {
   }
   100% {
     opacity: 0;
-    transform: scale(0.5) translate(-200%, -3em);
+    transform: scale(0.8) translate(-200%, -3em);
   }
 }
 
@@ -714,7 +714,7 @@ path {
   height: 100%;
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
-  background-image: url("https://m.media-amazon.com/images/S/aplus-media/vc/cab6b08a-dd8f-4534-b845-e33489e91240._CR75,0,300,300_PT0_SX300__.jpg");
+  background-image: url("images/data.png");
   background-position: bottom center;
   background-size: cover;
 }
